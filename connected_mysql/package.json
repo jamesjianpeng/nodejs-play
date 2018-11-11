@@ -1,0 +1,14 @@
+{
+  "name": "connected_mysql",
+  "version": "0.0.1",
+  "description": "链接 mysql",
+  "main": "connected_mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
